@@ -15,7 +15,7 @@ This repository contains projects completed during my **3-month internship** as 
   * Mitigation Strategies
 
 **Status**: Completed ✅
-[View Project Report](./Project%201%20-%20Basic%20Vulnerability%20Assessment/Reports/Project%201%20-%20Basic%20Vulnerability%20Assessment%20Full%20Report.pdf)
+[View Project Report](https://github.com/mcranjit/Infotact-Cybersecurity-Internship-Projects/blob/main/Project%201%20-%20Basic%20Vulnerability%20Assessment/Reports/Project%201%20-%20Basic%20Vulnerability%20Assessment%20Complete%20Report.pdf)
 
 ---
 
@@ -34,7 +34,9 @@ This repository contains projects completed during my **3-month internship** as 
   * Proof-of-Concept (PoC) Documentation
   * Remediation Guidelines
 
-**Status**: Ongoing 🚧
+**Status**: Completed ✅
+[View Project Report](https://github.com/mcranjit/Infotact-Cybersecurity-Internship-Projects/blob/main/Project%202%20-%20Web%20Application%20Penetration%20Testing/Report/Project%202%20-%20Web%20Application%20Penetration%20Testing%20Complete%20Report.pdf)
+
 
 ---
 
@@ -51,7 +53,7 @@ This repository contains projects completed during my **3-month internship** as 
   * Hardened Server Documentation
   * Reusable Security Checklist
 
-**Status**: Pending ⏳
+**Status**: Ongoing ⏳
 
 ---
 
@@ -78,9 +80,9 @@ This repository contains projects completed during my **3-month internship** as 
 │   │   └── nmap-report.html
 ├── Project 2 - Web Application Penetration Testing/
 │   ├── Exploits/
-│   │   ├── SQLi-demo.png
-│   │   └── XSS-demo.gif
-│   └── Report.pdf
+│   │   ├── Screenshots here
+│   ├── Reports/
+│   │   └── Web Application Penetration Testing Report.pdf
 ├── Project 3 - Secure Linux Server Setup/
 │   └── Checklist.md
 └── README.md
