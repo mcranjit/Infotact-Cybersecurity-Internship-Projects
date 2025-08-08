@@ -1,9 +1,5 @@
 # ✅ Project 3 Checklist – Secure Linux Server Setup & Hardening
 
-**Internship**: Infotact Solutions  
-**Role**: Security Admin Associate – L1  
-**Mentor**: Vasudev Jha  
-**Project Title**: Secure Linux Server Setup & Hardening  
 **Operating System**: Ubuntu Server 22.04 LTS  
 **Objective**: Deploy and harden a Linux server with enterprise-grade security controls.
 
@@ -109,3 +105,4 @@
 📅 **Last Updated**: August 7, 2025
 
 ---
+
