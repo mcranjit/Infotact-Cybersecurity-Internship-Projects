@@ -53,7 +53,8 @@ This repository contains projects completed during my **3-month internship** as 
   * Hardened Server Documentation
   * Reusable Security Checklist
 
-**Status**: Ongoing ⏳
+**Status**: Completed ✅
+[View Project Report](https://github.com/mcranjit/Infotact-Cybersecurity-Internship-Projects/blob/main/Project%203%20-%20Secure%20Linux%20Server%20Setup/Report/Project%203%20-%20Secure%20Linux%20Server%20Setup%20Complete%20Report.pdf)
 
 ---
 
@@ -85,6 +86,7 @@ This repository contains projects completed during my **3-month internship** as 
 │   │   └── Web Application Penetration Testing Report.pdf
 ├── Project 3 - Secure Linux Server Setup/
 │   └── Checklist.md
+|   └── Report/
 └── README.md
 ```
 
@@ -97,4 +99,5 @@ This repository contains projects completed during my **3-month internship** as 
 ## Contact
 
 For any queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ranjithmc/) or email at `cmr241ranjith@gmail.com`.
+
 
